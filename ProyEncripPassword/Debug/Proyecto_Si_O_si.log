@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 25/05/2018 13:50:53.
+     1>Proyecto "C:\Users\USUARIO\Desktop\Proyecto_Si_O_si\Proyecto_Si_O_si\Proyecto_Si_O_si.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\OPERACIONES.h(11): warning C4554: '&' : compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\MyForm.h(649): warning C4554: '&' : compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\MyForm.h(889): warning C4554: '&' : compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\MyForm.h(917): warning C4554: '&' : compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\MyForm.h(992): warning C4554: '&' : compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+     1>MyForm.cpp(7): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\rutas.h(14): warning C4715: 'rutas::tamaño_matriz' : no todas las rutas de acceso de control devuelven un valor
+     1>c:\users\usuario\desktop\proyecto_si_o_si\proyecto_si_o_si\escritura.h(19): warning C4715: 'Escritura::tamaño_matriz' : no todas las rutas de acceso de control devuelven un valor
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\USUARIO\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USUARIO\Desktop\Proyecto_Si_O_si\Debug\Proyecto_Si_O_si.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Proyecto_Si_O_si.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USUARIO\Desktop\Proyecto_Si_O_si\Debug\Proyecto_Si_O_si.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Proyecto_Si_O_si.vcxproj -> C:\Users\USUARIO\Desktop\Proyecto_Si_O_si\Debug\Proyecto_Si_O_si.exe
+     1>Compilación del proyecto terminada "C:\Users\USUARIO\Desktop\Proyecto_Si_O_si\Proyecto_Si_O_si\Proyecto_Si_O_si.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.69
